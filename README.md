@@ -1,4 +1,7 @@
-Adaptive web - Markov Modeling
+Adaptive Web 
 ==================================================
+
+    * Markov
+    * Bayes
 
 
